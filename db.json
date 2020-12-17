@@ -1,0 +1,197 @@
+{
+    "products":[
+        {
+            "title":"Маргарита",
+            "components":"Томатный соус, моцарелла и орегано.",
+            "weight":"450 g",
+            "price":"92.99",
+            "prodURL":"",
+            "path":"./src/product_img/margarita.jpg",
+            "category":"classic"
+        },
+
+        {
+            "title":"Маринара",
+            "components":"Томатный соус, чеснок и базилик.",
+            "weight":"450 g",
+            "price":"92.99",
+            "prodURL":"",
+            "path":"./src/product_img/marinara.jpg",
+            "category":"classic"
+        },
+
+        {
+            "title":"Четыре сезона",
+            "components":"Томатный соус, моцарелла, грибы, ветчина, артишоки, оливки и орегано.",
+            "weight":"450 g",
+            "price":"92.99",
+            "prodURL":"",
+            "path":"./src/product_img/four_season.jpg",
+            "category":"classic"
+        },
+
+        {
+            "title":"Карбонара",
+            "components":"Томатный соус, моцарелла, пармезан, яйца, бекон.",
+            "weight":"450 g",
+            "price":"92.99",
+            "prodURL":"",
+            "path":"./src/product_img/carbonara.jpg",
+            "category":"classic"
+        },
+
+        {
+            "title":"Четыре сыра",
+            "components":"Томатный соус, моцарелла, пармезан, сыр горгонзола, артишоки и орегано.",
+            "weight":"755 g",
+            "price":"237.99",
+            "prodURL":"",
+            "path":"./src/product_img/four_cheeses.jpg",
+            "category":"premium"
+        },
+
+        {
+            "title":"Крудо",
+            "components":"Томатный соус, моцарелла и пармская ветчина.",
+            "weight":"755 g",
+            "price":"237.99",
+            "prodURL":"",
+            "path":"./src/product_img/krudo.jpg",
+            "category":"premium"
+        },
+
+        {
+            "title":"Неаполетано",
+            "components":"Томатный соус, моцарелла, орегано, анчоусы.",
+            "weight":"755 g",
+            "price":"237.99",
+            "prodURL":"",
+            "path":"./src/product_img/neapolitano.jpg",
+            "category":"premium"
+        },
+
+        {
+            "title":"Монтанара",
+            "components":"Томатный соус, моцарелла, грибы, пепперони и Страккино (мягкий сыр).",
+            "weight":"755 g",
+            "price":"237.99",
+            "prodURL":"",
+            "path":"./src/product_img/montanara.jpg",
+            "category":"premium"
+        },
+
+        {
+            "title":"Эмилиана",
+            "components":"Томатный соус, моцарелла, баклажаны, отварной картофель и колбаса.",
+            "weight":"1000 g",
+            "price":"679.99",
+            "prodURL":"",
+            "path":"./src/product_img/amiliana.jpg",
+            "category":"legend"
+        },
+
+        {
+            "title":"Американо",
+            "components":"Томатный соус, моцарелла, колбаса и картофель фри.",
+            "weight":"1000 g",
+            "price":"679.99",
+            "prodURL":"",
+            "path":"./src/product_img/americano.jpg",
+            "category":"legend"
+        },
+
+        {
+            "title":"Сардиния",
+            "components":"Томатный соус, моцарелла, сыр пекорино и острая салями.",
+            "weight":"1000 g",
+            "price":"679.99",
+            "prodURL":"",
+            "path":"./src/product_img/sardinia.jpg",
+            "category":"legend"
+        },
+
+        {
+            "title":"Вальтеллина",
+            "components":"Томатный соус, моцарелла, бресаола, хлопья пармезана и руккола.",
+            "weight":"1000 g",
+            "price":"679.99",
+            "prodURL":"",
+            "path":"./src/product_img/valtelina.jpg",
+            "category":"legend"
+        },
+
+        {
+            "title":"Кальцоне",
+            "components":"Томатный соус, моцарелла, ветчина, грибы, артишоки, анчоусы и орегано.",
+            "weight":"500 g",
+            "price":"153.99",
+            "prodURL":"",
+            "path":"./src/product_img/kalcone.jpg",
+            "category":"custom"
+        },
+
+        {
+            "title":"Ортолана",
+            "components":" Томатный соус, моцарелла и ассорти из овоще.",
+            "weight":"500 g",
+            "price":"153.99",
+            "prodURL":"",
+            "path":"./src/product_img/ortola.jpg",
+            "category":"custom"
+        },
+
+        {
+            "title":"Дьавола",
+            "components":"Томатный соус, моцарелла, острая салями и перец чили.",
+            "weight":"500 g",
+            "price":"153.99",
+            "prodURL":"",
+            "path":"./src/product_img/devil.jpg",
+            "category":"custom"
+        },
+
+        {
+            "title":"Каприччиоза",
+            "components":"Томатный соус, моцарелла, ветчина, артишоки, грибы и оливки.",
+            "weight":"500 g",
+            "price":"153.99",
+            "prodURL":"",
+            "path":"./src/product_img/kaprinchose.jpg",
+            "category":"custom"
+        }
+    ],
+
+    "categories": {
+        "classic":[0, 1, 2, 3],
+        "premium":[4, 5, 6, 7],
+        "legend":[8, 9, 10, 11],
+        "custom":[12, 13, 14, 15],
+        "recommendation": [0, 4, 8, 12]
+    },
+
+    "suggestions": {
+        "actions": [
+            {
+                "title": "Скидка на вторую пиццу!",
+                "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis sit fugiat deleniti architecto tempore, voluptatem id quis. Earum quos, officiis distinctio suscipit, quis cumque odit similique error optio sint vitae.",
+                "path":"./src/slider_img/slide1.jpg"
+            },
+            {
+                "title": "Быстрая доставка!",
+                "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis sit fugiat deleniti architecto tempore, voluptatem id quis. Earum quos, officiis distinctio suscipit, quis cumque odit similique error optio sint vitae.",
+                "path":"./src/slider_img/slide2.jpg"
+            },
+            {
+                "title": "Черная пятница!",
+                "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis sit fugiat deleniti architecto tempore, voluptatem id quis. Earum quos, officiis distinctio suscipit, quis cumque odit similique error optio sint vitae.",
+                "path":"./src/slider_img/slide3.jpg"
+            },
+            {
+                "title": "Бесплатная доставка!",
+                "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis sit fugiat deleniti architecto tempore, voluptatem id quis. Earum quos, officiis distinctio suscipit, quis cumque odit similique error optio sint vitae.",
+                "path":"./src/slider_img/slide4.jpg"
+            }
+        ]
+    }
+    
+}
