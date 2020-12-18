@@ -3,6 +3,7 @@
         {
             "title":"Маргарита",
             "components":"Томатный соус, моцарелла и орегано.",
+            "id": 1,
             "weight":"450 g",
             "price":"92.99",
             "prodURL":"catalog/margarita",
@@ -13,6 +14,7 @@
         {
             "title":"Маринара",
             "components":"Томатный соус, чеснок и базилик.",
+            "id": 2,
             "weight":"450 g",
             "price":"92.99",
             "prodURL":"catalog/marinara",
@@ -23,6 +25,7 @@
         {
             "title":"Четыре сезона",
             "components":"Томатный соус, моцарелла, грибы, ветчина, артишоки, оливки и орегано.",
+            "id": 3,
             "weight":"450 g",
             "price":"92.99",
             "prodURL":"catalog/four_seasons",
@@ -33,6 +36,7 @@
         {
             "title":"Карбонара",
             "components":"Томатный соус, моцарелла, пармезан, яйца, бекон.",
+            "id": 4,
             "weight":"450 g",
             "price":"92.99",
             "prodURL":"catalog/carbonara",
@@ -43,6 +47,7 @@
         {
             "title":"Четыре сыра",
             "components":"Томатный соус, моцарелла, пармезан, сыр горгонзола, артишоки и орегано.",
+            "id": 5,
             "weight":"755 g",
             "price":"237.99",
             "prodURL":"catalog/four_cheeses",
@@ -53,6 +58,7 @@
         {
             "title":"Крудо",
             "components":"Томатный соус, моцарелла и пармская ветчина.",
+            "id": 6,
             "weight":"755 g",
             "price":"237.99",
             "prodURL":"catalog/crudo",
@@ -63,6 +69,7 @@
         {
             "title":"Неаполетано",
             "components":"Томатный соус, моцарелла, орегано, анчоусы.",
+            "id": 7,
             "weight":"755 g",
             "price":"237.99",
             "prodURL":"catalog/neapoletano",
@@ -73,6 +80,7 @@
         {
             "title":"Монтанара",
             "components":"Томатный соус, моцарелла, грибы, пепперони и Страккино (мягкий сыр).",
+            "id": 8,
             "weight":"755 g",
             "price":"237.99",
             "prodURL":"catalog/montanara",
@@ -83,6 +91,7 @@
         {
             "title":"Эмилиана",
             "components":"Томатный соус, моцарелла, баклажаны, отварной картофель и колбаса.",
+            "id": 9,
             "weight":"1000 g",
             "price":"679.99",
             "prodURL":"catalog/emiliana",
@@ -93,6 +102,7 @@
         {
             "title":"Американо",
             "components":"Томатный соус, моцарелла, колбаса и картофель фри.",
+            "id": 10,
             "weight":"1000 g",
             "price":"679.99",
             "prodURL":"catalog/americano",
@@ -103,6 +113,7 @@
         {
             "title":"Сардиния",
             "components":"Томатный соус, моцарелла, сыр пекорино и острая салями.",
+            "id": 11,
             "weight":"1000 g",
             "price":"679.99",
             "prodURL":"catalog/sardinia",
@@ -113,6 +124,7 @@
         {
             "title":"Вальтеллина",
             "components":"Томатный соус, моцарелла, бресаола, хлопья пармезана и руккола.",
+            "id": 12,
             "weight":"1000 g",
             "price":"679.99",
             "prodURL":"catalog/valtellina",
@@ -123,6 +135,7 @@
         {
             "title":"Кальцоне",
             "components":"Томатный соус, моцарелла, ветчина, грибы, артишоки, анчоусы и орегано.",
+            "id": 13,
             "weight":"500 g",
             "price":"153.99",
             "prodURL":"catalog/calzone",
@@ -133,6 +146,7 @@
         {
             "title":"Ортолана",
             "components":" Томатный соус, моцарелла и ассорти из овоще.",
+            "id": 14,
             "weight":"500 g",
             "price":"153.99",
             "prodURL":"catalog/ortolana",
@@ -143,6 +157,7 @@
         {
             "title":"Дьавола",
             "components":"Томатный соус, моцарелла, острая салями и перец чили.",
+            "id": 15,
             "weight":"500 g",
             "price":"153.99",
             "prodURL":"catalog/devil",
@@ -153,6 +168,7 @@
         {
             "title":"Каприччиоза",
             "components":"Томатный соус, моцарелла, ветчина, артишоки, грибы и оливки.",
+            "id": 16,
             "weight":"500 g",
             "price":"153.99",
             "prodURL":"catalog/capricciosa",
