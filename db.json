@@ -6,7 +6,7 @@
             "weight":"450 g",
             "price":"92.99",
             "prodURL":"",
-            "path":"./src/product_img/margarita.jpg",
+            "path":"src/product_img/margarita.jpg",
             "category":"classic"
         },
 
@@ -16,7 +16,7 @@
             "weight":"450 g",
             "price":"92.99",
             "prodURL":"",
-            "path":"./src/product_img/marinara.jpg",
+            "path":"src/product_img/marinara.jpg",
             "category":"classic"
         },
 
@@ -26,7 +26,7 @@
             "weight":"450 g",
             "price":"92.99",
             "prodURL":"",
-            "path":"./src/product_img/four_season.jpg",
+            "path":"src/product_img/four_season.jpg",
             "category":"classic"
         },
 
@@ -36,7 +36,7 @@
             "weight":"450 g",
             "price":"92.99",
             "prodURL":"",
-            "path":"./src/product_img/carbonara.jpg",
+            "path":"src/product_img/carbonara.jpg",
             "category":"classic"
         },
 
@@ -46,7 +46,7 @@
             "weight":"755 g",
             "price":"237.99",
             "prodURL":"",
-            "path":"./src/product_img/four_cheeses.jpg",
+            "path":"src/product_img/four_cheeses.jpg",
             "category":"premium"
         },
 
@@ -56,7 +56,7 @@
             "weight":"755 g",
             "price":"237.99",
             "prodURL":"",
-            "path":"./src/product_img/krudo.jpg",
+            "path":"src/product_img/krudo.jpg",
             "category":"premium"
         },
 
@@ -66,7 +66,7 @@
             "weight":"755 g",
             "price":"237.99",
             "prodURL":"",
-            "path":"./src/product_img/neapolitano.jpg",
+            "path":"src/product_img/neapolitano.jpg",
             "category":"premium"
         },
 
@@ -76,7 +76,7 @@
             "weight":"755 g",
             "price":"237.99",
             "prodURL":"",
-            "path":"./src/product_img/montanara.jpg",
+            "path":"src/product_img/montanara.jpg",
             "category":"premium"
         },
 
@@ -86,7 +86,7 @@
             "weight":"1000 g",
             "price":"679.99",
             "prodURL":"",
-            "path":"./src/product_img/amiliana.jpg",
+            "path":"src/product_img/amiliana.jpg",
             "category":"legend"
         },
 
@@ -96,7 +96,7 @@
             "weight":"1000 g",
             "price":"679.99",
             "prodURL":"",
-            "path":"./src/product_img/americano.jpg",
+            "path":"src/product_img/americano.jpg",
             "category":"legend"
         },
 
@@ -106,7 +106,7 @@
             "weight":"1000 g",
             "price":"679.99",
             "prodURL":"",
-            "path":"./src/product_img/sardinia.jpg",
+            "path":"src/product_img/sardinia.jpg",
             "category":"legend"
         },
 
@@ -116,7 +116,7 @@
             "weight":"1000 g",
             "price":"679.99",
             "prodURL":"",
-            "path":"./src/product_img/valtelina.jpg",
+            "path":"src/product_img/valtelina.jpg",
             "category":"legend"
         },
 
@@ -126,7 +126,7 @@
             "weight":"500 g",
             "price":"153.99",
             "prodURL":"",
-            "path":"./src/product_img/kalcone.jpg",
+            "path":"src/product_img/kalcone.jpg",
             "category":"custom"
         },
 
@@ -136,7 +136,7 @@
             "weight":"500 g",
             "price":"153.99",
             "prodURL":"",
-            "path":"./src/product_img/ortola.jpg",
+            "path":"src/product_img/ortola.jpg",
             "category":"custom"
         },
 
@@ -146,7 +146,7 @@
             "weight":"500 g",
             "price":"153.99",
             "prodURL":"",
-            "path":"./src/product_img/devil.jpg",
+            "path":"src/product_img/devil.jpg",
             "category":"custom"
         },
 
@@ -156,7 +156,7 @@
             "weight":"500 g",
             "price":"153.99",
             "prodURL":"",
-            "path":"./src/product_img/kaprinchose.jpg",
+            "path":"src/product_img/kaprinchose.jpg",
             "category":"custom"
         }
     ],
@@ -174,22 +174,22 @@
             {
                 "title": "Скидка на вторую пиццу!",
                 "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis sit fugiat deleniti architecto tempore, voluptatem id quis. Earum quos, officiis distinctio suscipit, quis cumque odit similique error optio sint vitae.",
-                "path":"./src/slider_img/slide1.jpg"
+                "path":"src/slider_img/slide1.jpg"
             },
             {
                 "title": "Быстрая доставка!",
                 "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis sit fugiat deleniti architecto tempore, voluptatem id quis. Earum quos, officiis distinctio suscipit, quis cumque odit similique error optio sint vitae.",
-                "path":"./src/slider_img/slide2.jpg"
+                "path":"src/slider_img/slide2.jpg"
             },
             {
                 "title": "Черная пятница!",
                 "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis sit fugiat deleniti architecto tempore, voluptatem id quis. Earum quos, officiis distinctio suscipit, quis cumque odit similique error optio sint vitae.",
-                "path":"./src/slider_img/slide3.jpg"
+                "path":"src/slider_img/slide3.jpg"
             },
             {
                 "title": "Бесплатная доставка!",
                 "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis sit fugiat deleniti architecto tempore, voluptatem id quis. Earum quos, officiis distinctio suscipit, quis cumque odit similique error optio sint vitae.",
-                "path":"./src/slider_img/slide4.jpg"
+                "path":"src/slider_img/slide4.jpg"
             }
         ]
     }
