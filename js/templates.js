@@ -114,15 +114,15 @@ export const form_temp =`<div class="checkout">
                                     <form class="checkout_form">
                                         <div class="inputfield">
                                                 <label>Имя</label>
-                                                <input id="Name" type="text" class="input" required>
+                                                <input id="Name" type="text" class="input" pattern="^[А-Яа-яЁё\s]+$|^[A-Za-z]+$" required>
                                         </div>  
                                             <div class="inputfield">
                                                 <label>Фамилия</label>
-                                                <input id="Surname" type="text" class="input" required>
+                                                <input id="Surname" type="text" class="input" pattern="^[А-Яа-яЁё\s]+$|^[A-Za-z]+$" required>
                                         </div>  
                                         <div class="inputfield">
                                                 <label>Город</label>
-                                                <input id="City" type="text" class="input" required>
+                                                <input id="City" type="text" class="input" pattern="^[А-Яа-яЁё\s]+$|^[A-Za-z]+$" required>
                                         </div>  
                                             <div class="inputfield">
                                                 <label>Дата/Время доставки</label>
