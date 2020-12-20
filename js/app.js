@@ -13,9 +13,11 @@ const classic = getProduct(products, categories['classic']);
 const premium = getProduct(products, categories['premium']);
 const legend = getProduct(products, categories['legend']);
 const custom = getProduct(products, categories['custom']);
-localStorage.setItem('cart', JSON.stringify([]))
 
 let orders = JSON.parse(localStorage.getItem('cart'))
+if (orders == null) {
+    orders = []
+}
 document.querySelector('#order_counter').innerHTML = count_order(orders)
 
 window.onload = () => {
